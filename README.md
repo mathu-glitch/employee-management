@@ -1,6 +1,6 @@
 # Mini Employee Management System
 
-[![CI Pipeline](https://github.com/your-username/mini-employee-management-system/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/mini-employee-management-system/actions)
+[![CI Pipeline](https://github.com/mathu-glitch/employee-management/actions/workflows/ci.yml/badge.svg)](https://github.com/mathu-glitch/employee-management/actions)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-000000.svg?logo=next.js&logoColor=white)](https://nextjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)

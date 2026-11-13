@@ -7,7 +7,7 @@ Email: [your.email@example.com]
 Phone: [Your Contact Phone]
 
 GitHub Repository:
-https://github.com/[your-username]/mini-employee-management-system
+https://github.com/mathu-glitch/employee-management
 
 Frontend Live URL:
 https://[your-frontend-deployment].vercel.app
